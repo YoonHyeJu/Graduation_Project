@@ -31,11 +31,11 @@ We thought it would be more meaningful to do a project to help Gachon University
 
 ## Contributors
 -------------------
->[YoonHyeJu](https://github.com/YoonHyeJu) ktytk0925@gmail.com
+>[YoonHyeJu](https://github.com/YoonHyeJu)
 >
 >[YoonDongGyun](https://github.com/YoonDongGyun)
 >
->[YooEunSeok] ()
+>[YooEunSeok](https://github.com/YooEunseok)
 
 
  
