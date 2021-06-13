@@ -34,14 +34,21 @@ We thought it would be more meaningful to do a project to help Gachon University
 
 --------------
 
+## Getting Started
+
+Please refer to the guide through this link for execution.
+
+https://github.com/YoonHyeJu/Graduation_Project/wiki/Starting-Guide
+
 ## Contributors
 
->[YoonHyeJu](https://github.com/YoonHyeJu)
+>[YoonHyeJu](https://github.com/YoonHyeJu) (ktytk0925@gmail.com)
 >
 >[YoonDongGyun](https://github.com/YoonDongGyun)
 >
 >[YooEunSeok](https://github.com/YooEunseok)
 
+If you have any questions about this project, please contact us via email above.
 
 
  
