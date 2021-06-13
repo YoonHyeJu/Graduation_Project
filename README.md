@@ -44,9 +44,9 @@ https://github.com/YoonHyeJu/Graduation_Project/wiki/Starting-Guide
 
 >[YoonHyeJu](https://github.com/YoonHyeJu) (ktytk0925@gmail.com)
 >
->[YoonDongGyun](https://github.com/YoonDongGyun)
+>[YoonDongGyun](https://github.com/YoonDongGyun) (ydg8732@naver.com)
 >
->[YooEunSeok](https://github.com/YooEunseok)
+>[YooEunSeok](https://github.com/YooEunseok) (sunnycloud56@naver.com)
 
 If you have any questions about this project, please contact us via email above.
 
